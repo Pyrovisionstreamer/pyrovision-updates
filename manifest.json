@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "version": "0.1.1.e21",
+  "published": "2026-11-05",
+  "notes": "First full Windows test build.",
+  "page_url": "https://github.com/Pyrovisionstreamer/pyrovision-testers/releases/tag/pyrovision-0.1.1.e21",
+  "windows": {
+    "version": "0.1.1",
+    "files": [
+      {
+        "name": "Pyrovision.Host_0.1.1_x64-setup.exe",
+        "sha256": "6763647a27a6281973ff15cd59accbec2cd5b5d83cedcc10e2f9ce9101d29708",
+        "size": 4009908
+      },
+      {
+        "name": "PyrovisionEngineSetup.exe",
+        "sha256": "05413d5e5526f2c68703643e0fc54029c15d3c1102ee97394925cb520ab9b82b",
+        "size": 35130880
+      }
+    ]
+  }
+}
